@@ -90,16 +90,5 @@ DBMs are similar to DBNs except that apart from the connections within layers, t
 
 ![dbm](https://i.imgur.com/XOOZ52p.png)
 
-## Credit
-
-**Coded By**
-
-[Anupam Verma](https://github.com/anupam215769)
-
-<a href="https://github.com/anupam215769/Boltzmann-Machines-DL/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=anupam215769/Boltzmann-Machines-DL" />
-</a>
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupam-verma-383855223/)
 
 
